@@ -1,0 +1,15 @@
+{
+  "name": "ragnarok-webscraping-automation",
+  "version": "1.0.0",
+  "description": "A Ragnarok scraping automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Marcos Felipe",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.4.0"
+  }
+}
